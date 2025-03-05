@@ -1,5 +1,9 @@
 ![2025-stack-ICF](https://github.com/user-attachments/assets/621d9a6f-3952-4293-a3a0-b5fe3d697400)
 
+
+***[February - 2025]** For an update on these items, see the latest [roadmap update article](https://medium.com/the-interchain-foundation/interchain-labs-a-short-term-roadmap-update-for-the-interchainstack-a6a70664bca9)*
+
+
 The Interchain Foundation [has recently shared its overall plans](https://medium.com/@interchain-io/unification-unifying-the-cosmos-hub-stack-and-ecosystem-f0ba49a3208f) and vision for Interchain Stack and Cosmos Hub development, as it consolidates its contributions to Cosmos under Interchain Inc. The ICF begun the hand-off of core component development from stewards to Interchain Inc, and redefined a focused set of components to be maintained. 
 
 In this document, the ICF outlines its short-and-medium term maintenance priorities for libraries and components of the Interchain Stack, as well as the Cosmos Hub - detailing existing hand-off processes. This is the current breakdown as of December 2024, subject to updates:
